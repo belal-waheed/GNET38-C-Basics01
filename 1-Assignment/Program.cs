@@ -108,6 +108,17 @@ namespace _1_Assignment
             //Console.WriteLine(pagesString);
             //Console.WriteLine(pagesString.GetType());
             #endregion
+
+            #region Question 10
+            // Declare int copies = 100;. Box it into an object variable, then unbox it back into a new int
+            // variable, and print both.
+
+            //int copies = 100;
+            //object boxedCopies = copies;
+            //int unboxedCopies = (int)boxedCopies;
+            //Console.WriteLine(boxedCopies);
+            //Console.WriteLine(unboxedCopies);
+            #endregion
         }
     }
 }
