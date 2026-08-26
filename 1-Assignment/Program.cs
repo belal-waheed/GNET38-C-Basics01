@@ -29,6 +29,15 @@ namespace _1_Assignment
             //Console.WriteLine(book.GetType());
             #endregion
 
+            #region Question 03
+            // Look at the line below. Is it a compile-time error, a runtime error, or a logical error? Fix it.
+            // int pages = "464";
+
+            // Compile-time error — you can't put string into an int , fix just remove the string quotes.
+
+            //int pages = 464;
+            //Console.WriteLine(pages);
+            #endregion
         }
     }
 }
