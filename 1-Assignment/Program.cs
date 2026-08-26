@@ -156,6 +156,15 @@ namespace _1_Assignment
             //title ??= "Untitled";
             //Console.WriteLine(title);
             #endregion
+
+            #region Question 15
+            // Given string? name = "Ahmed"; (you are sure it's not null here), assign it to a non-nullable
+            // string confirmedName using the ! operator.
+
+            //string? name = "Ahmed";
+            //string confirmedName = name!;
+            //Console.WriteLine(confirmedName);
+            #endregion
         }
     }
 }
