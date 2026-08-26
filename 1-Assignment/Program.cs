@@ -97,6 +97,17 @@ namespace _1_Assignment
             //    Console.WriteLine("Invalid number");
             //}
             #endregion
+
+
+            #region Question 09
+            // Given int pages = 464;, convert it into a string using ToString() and print its type using
+            // GetType() to prove it's now a string.
+
+            //int pages = 464;
+            //string pagesString = pages.ToString();
+            //Console.WriteLine(pagesString);
+            //Console.WriteLine(pagesString.GetType());
+            #endregion
         }
     }
 }
