@@ -119,6 +119,16 @@ namespace _1_Assignment
             //Console.WriteLine(boxedCopies);
             //Console.WriteLine(unboxedCopies);
             #endregion
+
+            #region Question 11
+            // Declare an int? year = null;. Print whether it has a value, then assign it 2023 and print its
+            // value.
+
+            //int? year = null; // null is just nothing empty 
+            //Console.WriteLine(year.HasValue);
+            //year = 2023;
+            //Console.WriteLine(year.Value);
+            #endregion
         }
     }
 }
